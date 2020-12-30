@@ -3,7 +3,7 @@ template: post
 title: Game of the Year 2018
 slug: game-of-the-year-2018
 socialImage: qseegzssgetrybgbplrv.jpg
-draft: true
+draft: false
 date: 2018-12-27T04:09:00.000Z
 description: My Game of the Year list for 2018.
 category: Gaming
