@@ -3,7 +3,7 @@ template: page
 title: About me
 slug: about-me
 socialImage: /media/d75_0281.jpg
-draft: true
+draft: false
 ---
 Andrew Burleigh is a software developer who is located in the Philadelphia area. Since 2016, he has worked at Bentley Systems, Inc. developing software related to the fields of construction and infrastructure. His primary focus is writing web applications with ASP.NET.\
 \
