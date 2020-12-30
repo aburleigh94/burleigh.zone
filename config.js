@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://burleigh.zone',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'burleigh.zone',
+  subtitle: 'I am a software developer building web applications with Microsoft and open source technologies.',
+  copyright: '© 2020 Andrew Burleigh',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,26 +25,26 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Andrew Burleigh',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a software developer building web applications with Microsoft and open source technologies.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'aburleigh94',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'aburleigh94',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: '@aburleigh94',
     }
   }
 };
