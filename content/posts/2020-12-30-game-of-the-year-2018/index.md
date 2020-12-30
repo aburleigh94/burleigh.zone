@@ -5,7 +5,7 @@ slug: game-of-the-year-2018
 socialImage: qseegzssgetrybgbplrv.jpg
 draft: false
 date: 2018-12-27T04:09:00.000Z
-description: There were a lot of great games release in 2018. Here are some of them.
+description: There were a lot of great games released in 2018. Here are some of them.
 category: Gaming
 tags: []
 ---
