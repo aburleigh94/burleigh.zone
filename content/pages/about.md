@@ -1,13 +1,12 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+slug: about-me
+socialImage: /media/d75_0281.jpg
+draft: true
 ---
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Andrew Burleigh is a software developer who is located in the Philadelphia area. Since 2016, he has worked at Bentley Systems, Inc. developing software related to the fields of construction and infrastructure. His primary focus is writing web applications with ASP.NET.\
+\
+Andrew graduated from Lehigh University with a B.S. in Computer Science. While attending school, he was a proud member of the Lehigh University Marching 97.\
+\
+When not writing code, Andrew enjoys playing video games and acting as Dungeon Master in his long-running Dungeons and Dragons campaign.
