@@ -5,7 +5,7 @@ slug: game-of-the-year-2018
 socialImage: qseegzssgetrybgbplrv.jpg
 draft: false
 date: 2018-12-27T04:09:00.000Z
-description: My Game of the Year list for 2018.
+description: There were a lot of great games release in 2018. Here are some of them.
 category: Gaming
 tags: []
 ---
