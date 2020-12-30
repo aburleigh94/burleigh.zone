@@ -8,6 +8,6 @@ date: 2020-12-30T19:40:34.056Z
 description: Check out these games.
 category: gaming
 tags:
-  - goty
+  - "Game of the Year"
 ---
 Start.
