@@ -7,6 +7,7 @@ draft: true
 date: 2016-09-01T23:46:37.121Z
 description: A test post
 category: None
-tags: []
+tags:
+  - None
 ---
 A test post
