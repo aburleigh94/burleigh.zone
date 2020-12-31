@@ -5,7 +5,7 @@ slug: game-of-the-year-2019
 socialImage: image.jpg
 draft: false
 date: 2020-01-05T19:40:34.056Z
-description: Check out these games.
+description: These games are da bomb.
 category: gaming
 tags:
   - Game of the Year
