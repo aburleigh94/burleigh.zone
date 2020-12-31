@@ -2,7 +2,7 @@
 template: post
 title: Game of the Year 2019
 slug: game-of-the-year-2019
-socialImage: d75_0281.jpg
+socialImage: image.jpg
 draft: false
 date: 2020-01-05T19:40:34.056Z
 description: Check out these games.
@@ -28,7 +28,7 @@ Honestly, I think this game is the Call of Duty that people have been waiting fo
 
 ![](apex-screenshot-bloodhound-raven.jpg.adapt.crop16x9.818p.jpg)
 
-Do you remember when I talked about games releasing unexpectedly? Apex Legends truly came out of nowhere when Respawn Entertainment dropped their take on a battle royale with only a few rumors coming before release day. It really comes as no surprise that the people who made stuff like Titanfall 2 created such an impressive new shooter. Thankfully, I think Apex Legends (bad name, by the way) will stick around far longer than either of the Titanfall games did. The movement feel is the best in the genre, and the character abilities made it fun to find new team compositions to handle different in-game situations. I also have a weird appreciation for the forced teamwork that Respawn has committed to, and they made sure to add an innovative pinging system that makes the game much easier to play with randos. Like most battle royale games, I'll be interested to see how the live servics model plays out, but I expect to be playing a lot more of this game over the next few years.
+Remember when I talked about games releasing unexpectedly? Apex Legends truly came out of nowhere when Respawn Entertainment dropped their take on a battle royale with only a few rumors coming before release day. It really comes as no surprise that the people who made stuff like Titanfall 2 created such an impressive new shooter. Thankfully, I think Apex Legends (bad name, by the way) will stick around far longer than either of the Titanfall games did. The movement feel is the best in the genre, and the character abilities made it fun to find new team compositions to handle different in-game situations. I also have a weird appreciation for the forced teamwork that Respawn has committed to, and they made sure to add an innovative pinging system that makes the game much easier to play with randos. Like most battle royale games, I'll be interested to see how the live servics model plays out, but I expect to be playing a lot more of this game over the next few years.
 
 ### 7. The Outer Worlds
 
