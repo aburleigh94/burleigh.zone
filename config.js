@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
@@ -44,7 +44,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '@aburleigh94',
+      medium: '',
     }
   }
 };
