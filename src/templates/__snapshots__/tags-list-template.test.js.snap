@@ -16,13 +16,15 @@ exports[`TagsListTemplate renders correctly 1`] = `
         <a
           href="/"
         >
-          <img
-            alt="Test name"
-            className="author__photo"
-            height="75"
-            src="/test.jpg"
-            width="75"
-          />
+          <div
+            className="author__photo_container"
+          >
+            <img
+              alt="Test name"
+              className="author__photo"
+              src="/test.jpg"
+            />
+          </div>
         </a>
         <h2
           className="author__title"

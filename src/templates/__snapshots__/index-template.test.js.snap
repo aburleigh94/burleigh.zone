@@ -16,13 +16,15 @@ exports[`IndexTemplate renders correctly 1`] = `
         <a
           href="/"
         >
-          <img
-            alt="Test name"
-            className="author__photo"
-            height="75"
-            src="/test.jpg"
-            width="75"
-          />
+          <div
+            className="author__photo_container"
+          >
+            <img
+              alt="Test name"
+              className="author__photo"
+              src="/test.jpg"
+            />
+          </div>
         </a>
         <h1
           className="author__title"
@@ -245,9 +247,9 @@ exports[`IndexTemplate renders correctly 1`] = `
             >
               <time
                 className="feed__item-meta-time"
-                dateTime="September 1, 2016"
+                dateTime="August 31, 2016"
               >
-                September 2016
+                August 2016
               </time>
               <span
                 className="feed__item-meta-divider"
@@ -293,9 +295,9 @@ exports[`IndexTemplate renders correctly 1`] = `
             >
               <time
                 className="feed__item-meta-time"
-                dateTime="September 1, 2016"
+                dateTime="August 31, 2016"
               >
-                September 2016
+                August 2016
               </time>
               <span
                 className="feed__item-meta-divider"
