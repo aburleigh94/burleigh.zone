@@ -5,7 +5,7 @@ slug: about
 socialImage: /media/d75_0281.jpg
 draft: false
 ---
-Andrew Burleigh is a software developer who is located in the Philadelphia area. Since 2016, he has worked at Bentley Systems, Inc. developing software related to the fields of construction and infrastructure. His primary focus is writing web applications with ASP.NET.\
+Andrew Burleigh is a software developer who is located in the Philadelphia area. Since 2021, he has worked at Syncro Medical developing software related to medical devices. He previously developed software for construction and infrastructure uses at Bentley Systems, Inc. His primary focus is writing web applications with ASP.NET and React.\
 \
 Andrew graduated from Lehigh University with a B.S. in Computer Science. While attending school, he was a proud member of the Lehigh University Marching 97.\
 \
