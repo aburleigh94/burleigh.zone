@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'burleigh.zone',
   subtitle: 'I am a software developer building web applications with Microsoft and open source technologies.',
-  copyright: '© 2020 Andrew Burleigh',
+  copyright: '© 2021 Andrew Burleigh',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
