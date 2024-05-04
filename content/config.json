@@ -1,0 +1,48 @@
+{
+  "title": "burleigh.zone",
+  "url": "https://burleigh.zone",
+  "subtitle": "I am a software developer building web applications with Microsoft and open source technologies.",
+  "copyright": "© 2024 Andrew Burleigh",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Posts",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "Andrew Burleigh",
+    "photo": "/photo.jpg",
+    "bio": "I am a software developer building web applications with Microsoft and open source technologies.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "aburleigh94",
+      "facebook": "#",
+      "telegram": "#",
+      "twitter": "aburleigh94",
+      "linkedin": "aburleigh94",
+      "instagram": "",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": "",
+      "bluesky": ""
+    }
+  }
+}
